@@ -16,7 +16,6 @@ int main(){
 
 	printf("'>' means changed something.");
 
-	printf("I want to push this command.");
 	return 0;
 }
 

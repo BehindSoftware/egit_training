@@ -17,6 +17,8 @@ int main(){
 	printf("'>' means changed something.");
 
 	printf("I want to push this command.");
+	
+	printf("Another person committed some files.");
 	return 0;
 }
 

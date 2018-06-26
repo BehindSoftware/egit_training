@@ -18,7 +18,7 @@ int main(){
 
 	printf("I want to push this command.");
 	
-	printf("Another person committed some files.");
+	printf("Another person committed files.");
 	return 0;
 }
 
